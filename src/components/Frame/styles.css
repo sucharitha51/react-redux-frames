@@ -1,0 +1,12 @@
+.frame-selection-wrapper {
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: rgb(196, 196, 196);
+    margin: 5px;
+    cursor: pointer;
+}
+
+.frame-selection-wrapper--selected {
+    background-color: rgb(233, 92, 167);
+}

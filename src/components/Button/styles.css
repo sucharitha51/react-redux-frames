@@ -1,0 +1,8 @@
+.btn {
+    width: 100px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid rgb(197, 197, 197);
+    float: right;
+    margin: 20px;
+}
